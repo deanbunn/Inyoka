@@ -1,4 +1,0 @@
-
-print('Warming up')
-
-
